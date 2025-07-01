@@ -1,0 +1,1 @@
+from .main import app  # for "uvicorn app:app" compatibility
